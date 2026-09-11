@@ -1,0 +1,6 @@
+{
+  "name": "ChemCareers 80: Chemistry Career Pathway Matcher",
+  "description": "An interactive chemistry career pathway matcher exploring 80 chemistry-related professions, matching academic subjects, interests, and hobbies to narrow down to your top 5 pathways.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
